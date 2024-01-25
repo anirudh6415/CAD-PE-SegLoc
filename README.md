@@ -3,12 +3,22 @@
 ## Overview
 This repository contains code for segmentation and localization tasks in Computer Aided Detection for Pulmonary Embolism (CAD-PE). The project uses a UNet model for segmentation and a Faster R-CNN model for localization. The dataset is structured into separate folders for localization and segmentation tasks.
 
-## Data Visualization 
-![CAD PE](images/image.gif)
-*Caption: A sample CAD PE CT image from the dataset.*
+## Data Visualization
 
-![CAD PE mask](images/mask.gif)
-*Caption: A sample CAD PE CT Mask from the dataset.*
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+  <div>
+    <img src="images/image.gif" alt="CAD PE" width="400"/>
+    <p><em>Caption: A sample CAD PE CT image from the dataset.</em></p>
+  </div>
+
+  <div>
+    <img src="images/mask.gif" alt="CAD PE mask" width="400"/>
+    <p><em>Caption: A sample CAD PE CT Mask from the dataset.</em></p>
+  </div>
+
+</div>
+
 
 ## Folder Structure
 
