@@ -10,12 +10,14 @@ This repository contains code for segmentation and localization tasks in Compute
   <div>
     <img src="images/image.gif" alt="CAD PE" width="200"/>
     <p><em>Caption: A sample CAD PE CT image from the dataset.</em></p>
-  </div>
-
-  <div>
     <img src="images/mask.gif" alt="CAD PE mask" width="200"/>
     <p><em>Caption: A sample CAD PE CT Mask from the dataset.</em></p>
   </div>
+
+  <!-- <div>
+    <img src="images/mask.gif" alt="CAD PE mask" width="200"/>
+    <p><em>Caption: A sample CAD PE CT Mask from the dataset.</em></p>
+  </div> -->
 
 </div>
 
@@ -70,12 +72,12 @@ This repository contains code for segmentation and localization tasks in Compute
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
   <div>
-    <img src="images/seg_results.png" alt="Segmentation" width="200"/>
+    <img src="images/seg_results.png" alt="Segmentation" width="500"/>
     <p><em>Caption: Results of CAD-PE Segmentation</em></p>
   </div>
 
   <div>
-    <img src="images/Loc_cadpe.png" alt="Localization" width="200"/>
+    <img src="images/Loc_cadpe.png" alt="Localization" width="400"/>
     <p><em>Caption: Results of CAD-PE Localization</em></p>
   </div>
 
