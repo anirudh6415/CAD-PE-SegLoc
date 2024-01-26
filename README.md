@@ -73,6 +73,12 @@ This repository contains code for segmentation and localization tasks in Compute
 
   <div>
     <p><em>Caption: Results of CAD-PE Segmentation</em></p>
+    <img src="images/cad_pe_seg.png" alt="Dice coeffiecent Segmentation" width="500"/>
+    
+  </div>
+
+  <div>
+    <p><em>Caption: Results of CAD-PE Segmentation</em></p>
     <img src="images/seg_results.png" alt="Segmentation" width="500"/>
     
   </div>
